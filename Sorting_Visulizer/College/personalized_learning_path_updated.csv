@@ -1,0 +1,201 @@
+Student ID,Age,10th Marks (%),12th Marks (%),Preferred Subjects,Skills,Domain Interest,Recommended Path,Physics Marks,Chemistry Marks,Mathematics Marks,Biology Marks,Aptitude Marks,Average Marks
+STU001,18,81,73,Physics,Web Development,Law,Software Engineer,98,88,89,58,65,79.6
+STU002,20,60,87,Chemistry,Machine Learning,Entrepreneurship,Lawyer,71,53,70,78,76,69.6
+STU003,15,56,76,Physics,Web Development,Medicine,Doctor,89,60,63,85,58,71.0
+STU004,25,80,52,Business Studies,Data Science,Engineering,Data Scientist,88,82,80,91,64,81.0
+STU005,17,91,99,Economics,Java,Marketing,Lawyer,64,80,62,50,99,71.0
+STU006,21,96,79,Computer Science,Java,Entrepreneurship,Entrepreneur,74,92,98,77,64,81.0
+STU007,25,83,75,Chemistry,Java,Law,Financial Analyst,60,66,54,92,77,69.8
+STU008,22,90,61,Mathematics,Data Science,Entrepreneurship,Lawyer,55,91,79,86,90,80.2
+STU009,20,81,55,Economics,Machine Learning,AI,Entrepreneur,84,87,95,71,86,84.6
+STU010,24,70,88,Mathematics,Finance,Law,Financial Analyst,73,55,51,50,52,56.2
+STU011,16,98,92,Economics,Machine Learning,Engineering,Marketing Manager,66,77,91,94,71,79.8
+STU012,15,85,56,Physics,Python,Finance,Data Scientist,100,65,97,71,78,82.2
+STU013,21,77,99,Physics,Finance,Law,Lawyer,56,90,55,78,54,66.6
+STU014,21,70,96,Business Studies,Java,Finance,Financial Analyst,87,60,65,86,55,70.6
+STU015,19,71,74,Mathematics,Machine Learning,AI,Doctor,99,77,63,54,65,71.6
+STU016,16,98,95,Mathematics,Web Development,Engineering,Data Scientist,80,99,73,51,94,79.4
+STU017,18,51,72,Biology,Web Development,Entrepreneurship,Data Scientist,100,59,66,87,89,80.2
+STU018,16,58,94,Chemistry,Python,Law,Financial Analyst,58,84,89,52,88,74.2
+STU019,16,87,54,Chemistry,Cybersecurity,Marketing,Lawyer,87,67,51,87,87,75.8
+STU020,19,63,88,Biology,Python,Finance,Software Engineer,98,77,84,80,82,84.2
+STU021,25,59,86,Biology,Machine Learning,Law,Entrepreneur,73,56,73,65,90,71.4
+STU022,25,77,60,Mathematics,Cybersecurity,Entrepreneurship,Entrepreneur,73,54,84,58,91,72.0
+STU023,18,90,98,Chemistry,Cybersecurity,Law,Marketing Manager,95,100,74,65,70,80.8
+STU024,18,87,54,Computer Science,Finance,Engineering,Doctor,87,79,98,69,83,83.2
+STU025,22,74,62,Computer Science,Data Science,Medicine,Software Engineer,58,97,90,82,71,79.6
+STU026,21,71,54,Chemistry,Cybersecurity,Law,Entrepreneur,55,65,78,55,86,67.8
+STU027,17,75,73,Chemistry,Machine Learning,AI,Lawyer,86,51,58,69,80,68.8
+STU028,16,68,80,Economics,Java,Medicine,Data Scientist,76,96,64,99,79,82.8
+STU029,25,76,96,Physics,Web Development,Law,Software Engineer,75,52,64,78,57,65.2
+STU030,16,96,50,Mathematics,Data Science,AI,Doctor,63,61,69,84,86,72.6
+STU031,16,97,78,Business Studies,Python,Marketing,Marketing Manager,62,61,92,69,61,69.0
+STU032,16,62,79,Mathematics,Python,AI,Data Scientist,84,67,82,94,92,83.8
+STU033,20,99,93,Business Studies,Machine Learning,Marketing,Financial Analyst,58,57,100,100,66,76.2
+STU034,15,71,98,Chemistry,Java,AI,Data Scientist,81,90,77,58,97,80.6
+STU035,22,80,94,Physics,Python,Law,Data Scientist,74,65,87,88,53,73.4
+STU036,18,85,85,Biology,Data Science,Finance,Financial Analyst,93,100,91,51,97,86.4
+STU037,23,91,70,Economics,Web Development,Engineering,Financial Analyst,67,62,98,64,67,71.6
+STU038,15,89,85,Mathematics,Data Science,Finance,Financial Analyst,61,68,87,62,82,72.0
+STU039,19,58,83,Mathematics,Java,Marketing,Lawyer,60,86,84,77,64,74.2
+STU040,18,55,76,Biology,Java,Law,Data Scientist,54,50,97,72,60,66.6
+STU041,22,85,86,Chemistry,Cybersecurity,Law,Entrepreneur,88,90,57,63,99,79.4
+STU042,16,57,51,Chemistry,Finance,AI,Software Engineer,62,78,62,84,67,70.6
+STU043,24,72,58,Physics,Java,Engineering,Lawyer,88,85,70,56,91,78.0
+STU044,19,71,99,Economics,Data Science,Entrepreneurship,Software Engineer,56,92,77,73,86,76.8
+STU045,23,55,75,Computer Science,Finance,Law,Financial Analyst,74,81,91,91,98,87.0
+STU046,20,89,95,Physics,Java,Marketing,Lawyer,53,70,75,52,89,67.8
+STU047,23,50,70,Mathematics,Cybersecurity,Engineering,Entrepreneur,52,77,92,82,59,72.4
+STU048,23,65,79,Biology,Finance,Entrepreneurship,Data Scientist,66,51,51,84,83,67.0
+STU049,21,55,96,Business Studies,Cybersecurity,Marketing,Entrepreneur,91,52,76,99,98,83.2
+STU050,19,92,62,Biology,Machine Learning,Finance,Data Scientist,56,93,71,76,74,74.0
+STU051,19,72,77,Business Studies,Cybersecurity,Finance,Doctor,60,86,71,99,64,76.0
+STU052,23,73,67,Business Studies,Python,Medicine,Financial Analyst,91,53,53,56,99,70.4
+STU053,25,69,65,Chemistry,Cybersecurity,Entrepreneurship,Data Scientist,71,87,78,97,88,84.2
+STU054,23,79,82,Business Studies,Finance,AI,Data Scientist,64,88,67,62,77,71.6
+STU055,24,74,55,Biology,Python,Finance,Lawyer,76,100,97,56,77,81.2
+STU056,24,77,87,Business Studies,Java,Law,Doctor,79,69,62,96,64,74.0
+STU057,16,82,96,Computer Science,Data Science,AI,Lawyer,89,87,75,95,90,87.2
+STU058,25,53,65,Physics,Java,Finance,Lawyer,65,60,96,62,79,72.4
+STU059,24,67,86,Business Studies,Java,Marketing,Entrepreneur,50,92,68,54,58,64.4
+STU060,18,59,97,Economics,Machine Learning,Medicine,Software Engineer,68,69,66,61,84,69.6
+STU061,24,79,82,Biology,Java,Entrepreneurship,Software Engineer,82,63,99,54,68,73.2
+STU062,20,70,82,Business Studies,Web Development,AI,Marketing Manager,83,96,61,66,75,76.2
+STU063,21,83,89,Biology,Cybersecurity,Entrepreneurship,Doctor,84,61,70,95,93,80.6
+STU064,18,60,64,Economics,Cybersecurity,AI,Marketing Manager,84,57,76,58,50,65.0
+STU065,23,56,76,Economics,Python,Marketing,Data Scientist,60,53,80,69,82,68.8
+STU066,18,57,78,Mathematics,Java,Engineering,Marketing Manager,94,93,80,74,53,78.8
+STU067,24,80,89,Biology,Data Science,Marketing,Software Engineer,79,52,74,51,63,63.8
+STU068,18,92,64,Business Studies,Machine Learning,AI,Software Engineer,68,71,50,95,81,73.0
+STU069,17,98,91,Mathematics,Data Science,Law,Marketing Manager,87,50,51,73,56,63.4
+STU070,19,94,84,Chemistry,Python,Marketing,Doctor,54,73,92,72,80,74.2
+STU071,16,58,81,Biology,Java,AI,Marketing Manager,57,70,71,85,72,71.0
+STU072,24,75,78,Physics,Finance,Law,Entrepreneur,60,72,52,92,89,73.0
+STU073,17,70,58,Physics,Data Science,Entrepreneurship,Doctor,53,59,74,87,52,65.0
+STU074,18,51,63,Business Studies,Finance,Medicine,Doctor,92,88,93,89,60,84.4
+STU075,24,67,79,Business Studies,Web Development,Finance,Marketing Manager,89,67,50,82,69,71.4
+STU076,25,68,92,Computer Science,Data Science,Medicine,Financial Analyst,56,90,74,88,69,75.4
+STU077,22,83,96,Computer Science,Machine Learning,Entrepreneurship,Data Scientist,90,66,82,82,67,77.4
+STU078,24,100,87,Chemistry,Data Science,Medicine,Data Scientist,80,89,94,68,64,79.0
+STU079,17,73,67,Computer Science,Cybersecurity,Entrepreneurship,Financial Analyst,87,55,74,61,73,70.0
+STU080,15,97,62,Business Studies,Web Development,Engineering,Lawyer,55,57,62,62,65,60.2
+STU081,22,76,64,Mathematics,Python,Finance,Doctor,68,95,51,60,87,72.2
+STU082,17,80,93,Chemistry,Java,Engineering,Entrepreneur,79,89,67,57,55,69.4
+STU083,21,99,77,Biology,Data Science,AI,Entrepreneur,97,56,73,83,67,75.2
+STU084,23,89,73,Business Studies,Finance,Law,Software Engineer,95,78,51,92,85,80.2
+STU085,22,67,99,Economics,Finance,Marketing,Entrepreneur,56,93,83,50,65,69.4
+STU086,18,79,76,Chemistry,Java,AI,Lawyer,81,73,74,71,99,79.6
+STU087,23,55,86,Business Studies,Data Science,Law,Software Engineer,90,62,71,75,95,78.6
+STU088,23,62,68,Physics,Python,Medicine,Doctor,78,96,72,65,81,78.4
+STU089,19,72,72,Computer Science,Data Science,Law,Doctor,87,60,91,50,99,77.4
+STU090,25,50,75,Biology,Finance,Law,Doctor,92,56,78,72,53,70.2
+STU091,25,78,58,Economics,Java,Entrepreneurship,Data Scientist,93,70,56,76,91,77.2
+STU092,21,77,87,Chemistry,Web Development,Marketing,Doctor,91,82,60,87,85,81.0
+STU093,24,64,77,Computer Science,Machine Learning,Marketing,Software Engineer,92,53,85,85,64,75.8
+STU094,25,98,53,Business Studies,Data Science,AI,Financial Analyst,81,87,62,94,96,84.0
+STU095,24,85,97,Economics,Machine Learning,Entrepreneurship,Marketing Manager,84,83,100,71,75,82.6
+STU096,15,93,61,Mathematics,Cybersecurity,Entrepreneurship,Doctor,85,69,59,78,57,69.6
+STU097,15,74,67,Economics,Python,Finance,Data Scientist,86,60,100,92,50,77.6
+STU098,20,57,70,Physics,Python,Law,Doctor,78,94,57,100,69,79.6
+STU099,25,85,63,Business Studies,Java,AI,Software Engineer,57,75,86,75,68,72.2
+STU100,19,52,50,Economics,Java,Marketing,Doctor,82,81,65,87,84,79.8
+STU101,20,87,97,Chemistry,Finance,AI,Marketing Manager,92,83,93,89,79,87.2
+STU102,23,94,59,Economics,Cybersecurity,Entrepreneurship,Doctor,69,58,84,97,99,81.4
+STU103,21,73,55,Biology,Python,Finance,Data Scientist,82,85,51,84,90,78.4
+STU104,21,87,71,Physics,Data Science,Finance,Financial Analyst,84,66,74,92,77,78.6
+STU105,21,94,61,Physics,Java,Finance,Financial Analyst,94,58,84,65,51,70.4
+STU106,23,53,61,Economics,Java,Medicine,Entrepreneur,77,100,96,79,82,86.8
+STU107,15,94,67,Chemistry,Data Science,AI,Financial Analyst,92,57,80,70,92,78.2
+STU108,22,70,60,Biology,Data Science,Law,Marketing Manager,59,57,65,55,97,66.6
+STU109,17,64,98,Chemistry,Web Development,Finance,Entrepreneur,88,74,62,55,57,67.2
+STU110,21,72,67,Chemistry,Data Science,AI,Entrepreneur,91,82,98,50,90,82.2
+STU111,17,91,57,Computer Science,Cybersecurity,AI,Marketing Manager,83,61,91,52,84,74.2
+STU112,18,70,68,Chemistry,Web Development,Marketing,Lawyer,73,95,58,52,55,66.6
+STU113,22,68,66,Computer Science,Python,Law,Data Scientist,66,57,65,84,59,66.2
+STU114,19,85,86,Physics,Cybersecurity,Engineering,Data Scientist,86,100,86,93,65,86.0
+STU115,22,70,54,Physics,Data Science,Law,Marketing Manager,64,58,67,54,96,67.8
+STU116,24,55,99,Chemistry,Python,Marketing,Doctor,59,70,70,67,86,70.4
+STU117,24,95,88,Mathematics,Cybersecurity,Law,Entrepreneur,50,64,79,70,96,71.8
+STU118,25,86,99,Computer Science,Java,Entrepreneurship,Software Engineer,65,52,63,79,94,70.6
+STU119,19,72,92,Physics,Data Science,Medicine,Lawyer,84,64,57,50,55,62.0
+STU120,18,80,72,Physics,Web Development,Law,Marketing Manager,73,56,80,74,100,76.6
+STU121,24,66,93,Mathematics,Cybersecurity,Marketing,Entrepreneur,68,51,51,86,71,65.4
+STU122,20,69,57,Physics,Python,Finance,Entrepreneur,65,50,56,61,66,59.6
+STU123,20,63,59,Chemistry,Java,Entrepreneurship,Data Scientist,87,79,90,92,70,83.6
+STU124,19,88,57,Physics,Web Development,Engineering,Lawyer,74,59,90,72,90,77.0
+STU125,25,74,96,Physics,Java,Marketing,Lawyer,50,82,86,97,58,74.6
+STU126,22,96,69,Biology,Machine Learning,Marketing,Lawyer,60,85,95,73,56,73.8
+STU127,18,97,84,Physics,Python,AI,Financial Analyst,57,55,97,56,54,63.8
+STU128,25,84,86,Chemistry,Machine Learning,Medicine,Software Engineer,61,60,67,71,91,70.0
+STU129,23,91,81,Mathematics,Finance,Entrepreneurship,Marketing Manager,99,97,56,87,94,86.6
+STU130,20,78,98,Biology,Data Science,Engineering,Software Engineer,66,81,57,71,59,66.8
+STU131,21,80,92,Computer Science,Finance,Marketing,Marketing Manager,71,54,54,82,72,66.6
+STU132,23,86,63,Business Studies,Web Development,Marketing,Data Scientist,100,70,73,78,79,80.0
+STU133,21,51,93,Biology,Java,Law,Lawyer,100,66,51,81,58,71.2
+STU134,21,73,75,Economics,Java,Law,Doctor,74,53,56,72,93,69.6
+STU135,16,96,84,Computer Science,Machine Learning,AI,Lawyer,96,74,81,57,66,74.8
+STU136,16,87,81,Mathematics,Finance,Finance,Data Scientist,67,94,72,86,100,83.8
+STU137,19,97,50,Mathematics,Python,Entrepreneurship,Marketing Manager,77,90,76,74,69,77.2
+STU138,17,71,51,Biology,Finance,Law,Lawyer,78,81,53,76,72,72.0
+STU139,15,54,85,Economics,Finance,Finance,Marketing Manager,67,77,63,52,80,67.8
+STU140,18,73,68,Computer Science,Cybersecurity,Engineering,Software Engineer,88,52,55,89,66,70.0
+STU141,25,90,77,Business Studies,Python,Medicine,Lawyer,76,80,88,87,81,82.4
+STU142,21,71,69,Economics,Java,AI,Data Scientist,65,73,70,72,73,70.6
+STU143,19,87,75,Mathematics,Cybersecurity,Law,Doctor,91,89,70,63,70,76.6
+STU144,19,97,100,Physics,Machine Learning,Finance,Doctor,50,68,87,52,69,65.2
+STU145,22,66,65,Biology,Cybersecurity,Marketing,Software Engineer,82,83,71,56,65,71.4
+STU146,15,98,79,Chemistry,Data Science,Entrepreneurship,Marketing Manager,92,72,96,56,63,75.8
+STU147,21,99,83,Business Studies,Python,Law,Financial Analyst,99,73,51,80,69,74.4
+STU148,20,87,69,Mathematics,Python,Engineering,Financial Analyst,91,78,71,84,67,78.2
+STU149,21,60,83,Computer Science,Finance,Marketing,Software Engineer,71,80,100,91,71,82.6
+STU150,16,54,59,Physics,Web Development,Law,Entrepreneur,79,89,63,54,73,71.6
+STU151,23,98,90,Physics,Data Science,Finance,Financial Analyst,63,74,61,83,51,66.4
+STU152,25,55,83,Physics,Java,Marketing,Marketing Manager,94,89,86,83,50,80.4
+STU153,23,78,100,Physics,Finance,Medicine,Software Engineer,100,60,64,60,61,69.0
+STU154,16,59,96,Chemistry,Cybersecurity,AI,Software Engineer,87,97,66,77,63,78.0
+STU155,15,54,66,Computer Science,Web Development,Entrepreneurship,Software Engineer,62,87,73,71,56,69.8
+STU156,19,98,67,Mathematics,Cybersecurity,Law,Entrepreneur,95,53,73,53,62,67.2
+STU157,15,77,59,Computer Science,Web Development,Entrepreneurship,Data Scientist,99,91,94,50,66,80.0
+STU158,21,67,79,Mathematics,Web Development,AI,Marketing Manager,86,74,54,92,50,71.2
+STU159,25,74,90,Mathematics,Machine Learning,Entrepreneurship,Marketing Manager,96,61,51,83,84,75.0
+STU160,19,82,72,Business Studies,Web Development,Finance,Doctor,62,55,85,81,75,71.6
+STU161,19,88,89,Biology,Cybersecurity,AI,Data Scientist,90,99,88,77,84,87.6
+STU162,15,57,96,Business Studies,Web Development,Engineering,Software Engineer,87,79,80,98,94,87.6
+STU163,18,77,59,Chemistry,Machine Learning,Marketing,Entrepreneur,62,94,61,64,62,68.6
+STU164,17,69,61,Physics,Finance,Engineering,Financial Analyst,52,54,62,56,81,61.0
+STU165,24,65,89,Mathematics,Python,AI,Software Engineer,60,73,54,98,90,75.0
+STU166,22,86,60,Biology,Java,Law,Data Scientist,63,96,89,79,55,76.4
+STU167,22,78,53,Biology,Web Development,Entrepreneurship,Doctor,74,72,63,75,95,75.8
+STU168,16,62,70,Mathematics,Machine Learning,Medicine,Entrepreneur,56,56,78,93,89,74.4
+STU169,19,50,58,Business Studies,Python,Marketing,Financial Analyst,51,94,57,66,68,67.2
+STU170,19,79,66,Economics,Web Development,Entrepreneurship,Software Engineer,100,52,87,72,78,77.8
+STU171,16,98,74,Computer Science,Python,Law,Doctor,73,54,62,86,90,73.0
+STU172,15,93,70,Mathematics,Finance,Medicine,Doctor,75,97,72,78,54,75.2
+STU173,22,75,61,Economics,Web Development,Marketing,Entrepreneur,69,72,75,76,89,76.2
+STU174,23,62,56,Chemistry,Python,Finance,Data Scientist,97,61,79,74,68,75.8
+STU175,21,74,100,Chemistry,Web Development,Entrepreneurship,Marketing Manager,68,53,83,66,96,73.2
+STU176,15,93,100,Chemistry,Web Development,Engineering,Software Engineer,78,74,67,51,70,68.0
+STU177,24,72,73,Computer Science,Machine Learning,Entrepreneurship,Financial Analyst,54,59,55,99,55,64.4
+STU178,17,52,86,Physics,Data Science,Marketing,Entrepreneur,50,52,51,61,75,57.8
+STU179,23,79,80,Computer Science,Python,Medicine,Entrepreneur,65,98,50,64,60,67.4
+STU180,21,80,91,Chemistry,Cybersecurity,Engineering,Doctor,84,52,81,97,50,72.8
+STU181,16,51,83,Biology,Finance,Law,Lawyer,74,55,99,68,62,71.6
+STU182,17,97,55,Chemistry,Java,Finance,Entrepreneur,88,89,92,78,63,82.0
+STU183,16,75,71,Biology,Finance,Law,Financial Analyst,51,63,85,73,87,71.8
+STU184,25,81,83,Business Studies,Finance,Law,Financial Analyst,63,76,72,90,62,72.6
+STU185,17,74,95,Biology,Data Science,Law,Doctor,52,58,58,94,68,66.0
+STU186,17,62,59,Economics,Data Science,Finance,Marketing Manager,88,68,98,90,95,87.8
+STU187,25,82,95,Physics,Machine Learning,AI,Lawyer,100,57,78,63,92,78.0
+STU188,21,60,90,Economics,Web Development,Law,Financial Analyst,92,97,74,77,90,86.0
+STU189,20,73,82,Computer Science,Java,Marketing,Lawyer,75,60,50,58,75,63.6
+STU190,15,56,64,Economics,Python,Law,Lawyer,55,59,74,73,54,63.0
+STU191,17,87,69,Biology,Web Development,Finance,Software Engineer,88,62,86,95,59,78.0
+STU192,18,81,72,Economics,Finance,Law,Entrepreneur,81,84,98,86,51,80.0
+STU193,25,65,86,Chemistry,Data Science,Engineering,Entrepreneur,51,66,77,98,61,70.6
+STU194,16,85,80,Economics,Machine Learning,AI,Doctor,62,83,54,56,67,64.4
+STU195,24,57,88,Economics,Machine Learning,Law,Doctor,76,100,74,73,54,75.4
+STU196,21,80,87,Economics,Java,Entrepreneurship,Marketing Manager,61,99,68,76,54,71.6
+STU197,25,74,50,Physics,Machine Learning,Medicine,Marketing Manager,79,94,62,73,91,79.8
+STU198,15,97,95,Business Studies,Java,Engineering,Software Engineer,91,56,75,74,83,75.8
+STU199,25,91,68,Mathematics,Web Development,AI,Doctor,93,63,68,80,86,78.0
+STU200,17,79,68,Physics,Web Development,Finance,Financial Analyst,74,85,58,97,67,76.2

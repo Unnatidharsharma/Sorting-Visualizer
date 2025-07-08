@@ -1,0 +1,8 @@
+2025-03-08 22:36:43.526810 - Algorithm Used: insertionSort
+2025-03-08 22:37:37.454279 - Algorithm Used: insertionSort
+2025-03-08 22:37:40.411424 - Algorithm Used: insertionSort
+2025-03-08 22:37:40.738811 - Algorithm Used: insertionSort
+2025-03-08 22:37:40.936390 - Algorithm Used: insertionSort
+2025-03-08 22:37:41.147777 - Algorithm Used: insertionSort
+2025-03-08 22:41:53.092720 - Algorithm Used: insertionSort
+2025-03-08 22:42:12.301796 - Algorithm Used: mergeSort
